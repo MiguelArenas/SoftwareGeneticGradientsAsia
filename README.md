@@ -8,12 +8,11 @@ Citation: Catarina Branco, Nicolas Ray, Mathias Currat, Miguel Arenas. 2020. Inf
 - The estimation genetic gradients under PCA was performed with an R script that is here provided. This script is distributed with copyright under the GNU GENERAL PUBLIC LICENSE. The GNU General Public License is a free, copyleft license for software and other kinds of works. A copy of the license is also distributed here. Detailed information to run the script is included at the beginning of the script. Indeed, an illustrative example running the script (including input and output files) is included.
  
 
-
 References
 
-Currat M, Arenas M, Quilodran CS, Excoffier L, Ray N. 2019. SPLATCHE3: simulation of serial genetic data under spatially explicit evolutionary scenarios including long-distance dispersal. Bioinformatics, 35(21): 4480–4483.
-
 Branco C, Ray N, Currat M, Arenas M. 2020. Influence of Paleolithic Range Contraction, Admixture and Long-Distance Dispersal on Genetic Gradients of Modern Humans in Asia. Molecular Ecology.
+
+Currat M, Arenas M, Quilodran CS, Excoffier L, Ray N. 2019. SPLATCHE3: simulation of serial genetic data under spatially explicit evolutionary scenarios including long-distance dispersal. Bioinformatics, 35(21): 4480–4483.
 
 
 Acknowledgments
