@@ -1,11 +1,11 @@
 # SoftwareGeneticGradientsAsia
-“SoftwareGeneticGradientsAsia” includes the software used to simulate genetic data and to estimate genetic gradients (under PCA) for the study on the causes of current genetic gradients in Asia.
+“SoftwareGeneticGradientsAsia” includes the software used for the study on the causes of current genetic gradients in Asia.
 
 Citation: Catarina Branco, Nicolas Ray, Mathias Currat, Miguel Arenas. 2020. Influence of Paleolithic Range Contraction, Admixture and Long-Distance Dispersal on Genetic Gradients of Modern Humans in Asia. Molecular Ecology.
 
-- The simulation of genetic data under spatially-explicit evolutionary models was performed with the software Splatche (http://www.splatche.com/). We include here the specific version of Splatche used for this study, including executable files for Windows (SplatcheWin.exe) and Linux (SplatcheLinux). For further information about Splatche and its application we refer to http://www.splatche.com/
+The simulation of genetic data under spatially-explicit evolutionary models was performed with the software Splatche (http://www.splatche.com/). We include here the specific version of Splatche used for this study, including executable files for Windows (SplatcheWin.exe) and Linux (SplatcheLinux). For further information about Splatche and its application we refer to http://www.splatche.com/
 
-- The estimation genetic gradients under PCA was performed with an R script that is here provided. This script is distributed with copyright under the GNU GENERAL PUBLIC LICENSE. The GNU General Public License is a free, copyleft license for software and other kinds of works. A copy of the license is also distributed here. Detailed information to run the script is included at the beginning of the script. Indeed, an illustrative example running the script (including input and output files) is included.
+The estimation genetic gradients under PCA was performed with an R script that is here provided. This script is distributed with copyright under the GNU GENERAL PUBLIC LICENSE. The GNU General Public License is a free, copyleft license for software and other kinds of works. A copy of the license is also distributed here. Detailed information to run the script is included at the beginning of the script.
  
 
 References
