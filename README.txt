@@ -4,7 +4,7 @@ Citation: Catarina Branco, Nicolas Ray, Mathias Currat, Miguel Arenas. 2020. Inf
 
 - The simulation of genetic data under spatially-explicit evolutionary models was performed with the software Splatche (http://www.splatche.com/). We include here the specific version of Splatche used for this study, including executable files for Windows (SplatcheWin.exe) and Linux (SplatcheLinux). For further information about Splatche and its application we refer to http://www.splatche.com/
 
-- The estimation genetic gradients under PCA was performed with an R script that is here provided. This script is distributed with copyright under the GNU GENERAL PUBLIC LICENSE. The GNU General Public License is a free, copyleft license for software and other kinds of works. A copy of the license is also distributed here. Detailed information to run the script is included at the beginning of the script.
+- The estimation of genetic gradients under PCA was performed with an R script that is provided upon request (marenas@uvigo.es / miguelmmmab@gmail.com). This script is distributed with copyright under the GNU GENERAL PUBLIC LICENSE. The GNU General Public License is a free, copyleft license for software and other kinds of works. A copy of the license is also distributed. Detailed information to run the script is included at the beginning of the script.
  
 
 
