@@ -8,11 +8,9 @@ The simulation of genetic data under spatially-explicit evolutionary models was 
 The estimation of genetic gradients under PCA was performed with an R script that is provided upon request (marenas@uvigo.es / miguelmmmab@gmail.com). This script is distributed with copyright under the GNU GENERAL PUBLIC LICENSE. The GNU General Public License is a free, copyleft license for software and other kinds of works. A copy of the license is also distributed. Detailed information to run the script is included at the beginning of the script.
  
 
-References
+Reference
 
 Branco C, Ray N, Currat M, Arenas M. 2020. Influence of Paleolithic range contraction, admixture and long-distance dispersal on genetic gradients of modern humans in Asia. Molecular Ecology, 29: 2150–2159. https://doi.org/10.1111/mec.15479
-
-Currat M, Arenas M, Quilodran CS, Excoffier L, Ray N. 2019. SPLATCHE3: simulation of serial genetic data under spatially explicit evolutionary scenarios including long-distance dispersal. Bioinformatics, 35(21): 4480–4483.
 
 
 Acknowledgments
