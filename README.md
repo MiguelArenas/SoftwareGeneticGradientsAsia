@@ -1,7 +1,7 @@
 # SoftwareGeneticGradientsAsia
 “SoftwareGeneticGradientsAsia” includes the software used for the study on the causes of current genetic gradients in Asia.
 
-Citation: Catarina Branco, Nicolas Ray, Mathias Currat, Miguel Arenas. 2020. Influence of Paleolithic Range Contraction, Admixture and Long-Distance Dispersal on Genetic Gradients of Modern Humans in Asia. Molecular Ecology.
+Citation: Branco C, Ray N, Currat M, Arenas M. 2020. Influence of Paleolithic range contraction, admixture and long-distance dispersal on genetic gradients of modern humans in Asia. Molecular Ecology, 29: 2150–2159. https://doi.org/10.1111/mec.15479
 
 The simulation of genetic data under spatially-explicit evolutionary models was performed with the software Splatche (http://www.splatche.com/). We include here the specific version of Splatche used for this study, including executable files for Windows (SplatcheWin.exe) and Linux (SplatcheLinux). For further information about Splatche and its application we refer to http://www.splatche.com/
 
@@ -10,7 +10,7 @@ The estimation of genetic gradients under PCA was performed with an R script tha
 
 References
 
- Branco C, Ray N, Currat M, Arenas M. 2020. Influence of Paleolithic range contraction, admixture and long-distance dispersal on genetic gradients of modern humans in Asia. Molecular Ecology, 29: 2150–2159. https://doi.org/10.1111/mec.15479
+Branco C, Ray N, Currat M, Arenas M. 2020. Influence of Paleolithic range contraction, admixture and long-distance dispersal on genetic gradients of modern humans in Asia. Molecular Ecology, 29: 2150–2159. https://doi.org/10.1111/mec.15479
 
 Currat M, Arenas M, Quilodran CS, Excoffier L, Ray N. 2019. SPLATCHE3: simulation of serial genetic data under spatially explicit evolutionary scenarios including long-distance dispersal. Bioinformatics, 35(21): 4480–4483.
 
